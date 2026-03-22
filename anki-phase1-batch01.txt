@@ -1,0 +1,46 @@
+# Anki import file — Tab-separated, 3 fields: Front, Back, Tags
+# Import settings: Field 1 = Front, Field 2 = Back, Field 3 = Tags
+# Card type: Basic
+# Deck: Spanish::Phase1-Reactivation::Verbs-Core30
+Yo no <b>soy</b> de aquí, pero me gusta mucho esta ciudad.	I'm not from here, but I like this city a lot.<br><br><i>ser — present, yo</i>	phase1 verbs present ser
+¿Tú <b>eres</b> el hermano de María?	Are you María's brother?<br><br><i>ser — present, tú</i>	phase1 verbs present ser
+Ella <b>es</b> profesora en la universidad.	She's a professor at the university.<br><br><i>ser — present, ella</i>	phase1 verbs present ser
+La fiesta <b>fue</b> increíble, todo el mundo bailó.	The party was incredible, everyone danced.<br><br><i>ser — preterite, ella (event)</i>	phase1 verbs preterite ser
+<b>Estoy</b> cansado, no dormí bien anoche.	I'm tired, I didn't sleep well last night.<br><br><i>estar — present, yo</i>	phase1 verbs present estar
+¿Dónde <b>estás</b>? Te estamos esperando.	Where are you? We're waiting for you.<br><br><i>estar — present, tú</i>	phase1 verbs present estar
+El restaurante <b>está</b> cerca del parque.	The restaurant is near the park.<br><br><i>estar — present, él/ella</i>	phase1 verbs present estar
+Ayer <b>estuve</b> en casa de mi abuela todo el día.	Yesterday I was at my grandmother's house all day.<br><br><i>estar — preterite, yo</i>	phase1 verbs preterite estar
+<b>Tengo</b> hambre, ¿quieres cocinar algo?	I'm hungry, do you want to cook something?<br><br><i>tener — present, yo</i>	phase1 verbs present tener
+Ella <b>tiene</b> tres gatos y un perro enorme.	She has three cats and an enormous dog.<br><br><i>tener — present, ella</i>	phase1 verbs present tener
+No <b>tuve</b> tiempo de terminar el informe.	I didn't have time to finish the report.<br><br><i>tener — preterite, yo</i>	phase1 verbs preterite tener
+¿Qué <b>haces</b> este fin de semana?	What are you doing this weekend?<br><br><i>hacer — present, tú</i>	phase1 verbs present hacer
+Siempre <b>hago</b> café antes de trabajar.	I always make coffee before working.<br><br><i>hacer — present, yo</i>	phase1 verbs present hacer
+Ayer <b>hice</b> una sopa de tomate riquísima.	Yesterday I made a delicious tomato soup.<br><br><i>hacer — preterite, yo</i>	phase1 verbs preterite hacer
+<b>Voy</b> al supermercado, ¿necesitas algo?	I'm going to the supermarket, do you need anything?<br><br><i>ir — present, yo</i>	phase1 verbs present ir
+¿A dónde <b>vas</b> tan temprano?	Where are you going so early?<br><br><i>ir — present, tú</i>	phase1 verbs present ir
+El domingo <b>fuimos</b> a la playa con los niños.	On Sunday we went to the beach with the kids.<br><br><i>ir — preterite, nosotros</i>	phase1 verbs preterite ir
+No <b>puedo</b> ir esta noche, tengo que estudiar.	I can't go tonight, I have to study.<br><br><i>poder — present, yo</i>	phase1 verbs present poder
+¿<b>Puedes</b> ayudarme con esto?	Can you help me with this?<br><br><i>poder — present, tú</i>	phase1 verbs present poder
+No <b>pude</b> dormir con todo ese ruido.	I couldn't sleep with all that noise.<br><br><i>poder — preterite, yo</i>	phase1 verbs preterite poder
+¿Qué me <b>dices</b>? No te escucho bien.	What are you saying? I can't hear you well.<br><br><i>decir — present, tú</i>	phase1 verbs present decir
+Siempre <b>dice</b> que va a llamar, pero nunca llama.	He always says he's going to call, but he never calls.<br><br><i>decir — present, él</i>	phase1 verbs present decir
+Me <b>dijo</b> que no podía venir a la cena.	He told me he couldn't come to dinner.<br><br><i>decir — preterite, él</i>	phase1 verbs preterite decir
+No <b>sé</b> dónde dejé las llaves.	I don't know where I left the keys.<br><br><i>saber — present, yo</i>	phase1 verbs present saber
+¿<b>Sabes</b> cocinar arroz con pollo?	Do you know how to cook arroz con pollo?<br><br><i>saber — present, tú</i>	phase1 verbs present saber
+Cuando <b>supe</b> la noticia, no lo podía creer.	When I found out the news, I couldn't believe it.<br><br><i>saber — preterite, yo (found out)</i>	phase1 verbs preterite saber
+<b>Quiero</b> aprender a hacer pan en casa.	I want to learn to make bread at home.<br><br><i>querer — present, yo</i>	phase1 verbs present querer
+No <b>quiso</b> decirnos qué pasó.	He refused to tell us what happened.<br><br><i>querer — preterite, él (refused)</i>	phase1 verbs preterite querer
+Le <b>doy</b> de comer al perro dos veces al día.	I feed the dog twice a day.<br><br><i>dar — present, yo</i>	phase1 verbs present dar
+Me <b>dio</b> un regalo por mi cumpleaños.	She gave me a gift for my birthday.<br><br><i>dar — preterite, ella</i>	phase1 verbs preterite dar
+No <b>veo</b> bien sin mis lentes.	I can't see well without my glasses.<br><br><i>ver — present, yo</i>	phase1 verbs present ver
+¿<b>Viste</b> el partido anoche?	Did you see the game last night?<br><br><i>ver — preterite, tú</i>	phase1 verbs preterite ver
+<b>Hablo</b> un poco de español, pero necesito practicar más.	I speak a little Spanish, but I need to practice more.<br><br><i>hablar — present, yo</i>	phase1 verbs present hablar
+<b>Hablamos</b> por teléfono durante una hora.	We talked on the phone for an hour.<br><br><i>hablar — preterite, nosotros</i>	phase1 verbs preterite hablar
+¿Dónde <b>vives</b>? Yo vivo cerca del centro.	Where do you live? I live near downtown.<br><br><i>vivir — present, tú</i>	phase1 verbs present vivir
+<b>Viví</b> en México por dos años cuando era niño.	I lived in Mexico for two years when I was a kid.<br><br><i>vivir — preterite, yo</i>	phase1 verbs preterite vivir
+¿Dónde <b>pongo</b> estos platos?	Where do I put these plates?<br><br><i>poner — present, yo</i>	phase1 verbs present poner
+<b>Puse</b> las llaves en la mesa, pero ya no están.	I put the keys on the table, but they're not there anymore.<br><br><i>poner — preterite, yo</i>	phase1 verbs preterite poner
+<b>Vengo</b> de una familia grande — somos seis hermanos.	I come from a big family — there are six of us siblings.<br><br><i>venir — present, yo</i>	phase1 verbs present venir
+<b>Vine</b> a este país hace cinco años.	I came to this country five years ago.<br><br><i>venir — preterite, yo</i>	phase1 verbs preterite venir
+<b>Conozco</b> un buen restaurante por aquí.	I know a good restaurant around here.<br><br><i>conocer — present, yo</i>	phase1 verbs present conocer
+La <b>conocí</b> en una fiesta el año pasado.	I met her at a party last year.<br><br><i>conocer — preterite, yo (met for first time)</i>	phase1 verbs preterite conocer
