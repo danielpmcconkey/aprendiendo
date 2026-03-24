@@ -1,0 +1,50 @@
+# Anki import file — Tab-separated, 3 fields: Front, Back, Tags
+# Import settings: Field 1 = Front, Field 2 = Back, Field 3 = Tags
+# Card type: Basic
+# Deck: Spanish::Phase1-Reactivation::Verbs-Core30
+# --- Imperfect tense: 3 irregular verbs (ser, ir, ver) ---
+Cuando <b>era</b> niño, me encantaba jugar en la calle.	When I was a kid, I loved playing in the street.<br><br><i>ser — imperfect, yo. Irregular: era, eras, era, éramos, erais, eran</i>	phase1 verbs imperfect ser
+Mis abuelos <b>eran</b> de Guadalajara, pero vivían en Tijuana.	My grandparents were from Guadalajara, but they lived in Tijuana.<br><br><i>ser — imperfect, ellos. Background description.</i>	phase1 verbs imperfect ser
+Todos los domingos <b>iba</b> al mercado con mi mamá.	Every Sunday I went to the market with my mom.<br><br><i>ir — imperfect, yo. Irregular: iba, ibas, iba, íbamos, ibais, iban</i>	phase1 verbs imperfect ir
+¿A dónde <b>ibas</b> tan temprano cuando eras joven?	Where did you used to go so early when you were young?<br><br><i>ir — imperfect, tú. Habitual past action.</i>	phase1 verbs imperfect ir
+De niña, <b>iba</b> a la playa todos los fines de semana.	As a girl, she used to go to the beach every weekend.<br><br><i>ir — imperfect, ella. Habitual past action.</i>	phase1 verbs imperfect ir
+Desde la ventana se <b>veía</b> toda la ciudad.	From the window you could see the whole city.<br><br><i>ver — imperfect, impersonal se. Irregular: veía, veías, veía, veíamos, veíais, veían</i>	phase1 verbs imperfect ver
+Yo no <b>veía</b> bien sin lentes cuando era niño.	I couldn't see well without glasses when I was a kid.<br><br><i>ver — imperfect, yo. Ongoing past state.</i>	phase1 verbs imperfect ver
+# --- Imperfect tense: regular -ar pattern (-aba) ---
+Mi abuela <b>cocinaba</b> los mejores tamales del barrio.	My grandmother used to cook the best tamales in the neighbourhood.<br><br><i>cocinar — imperfect, ella. Regular -ar: -aba, -abas, -aba, -ábamos, -abais, -aban</i>	phase1 verbs imperfect cocinar
+Antes yo <b>hablaba</b> español todos los días.	I used to speak Spanish every day.<br><br><i>hablar — imperfect, yo. Regular -ar pattern.</i>	phase1 verbs imperfect hablar
+Nosotros <b>caminábamos</b> al trabajo porque no teníamos coche.	We used to walk to work because we didn't have a car.<br><br><i>caminar — imperfect, nosotros. Note the accent: -ábamos.</i>	phase1 verbs imperfect caminar
+Ella siempre <b>llegaba</b> tarde a clase.	She always arrived late to class.<br><br><i>llegar — imperfect, ella. Habitual past — "siempre" is a strong imperfect signal.</i>	phase1 verbs imperfect llegar
+# --- Imperfect tense: regular -er/-ir pattern (-ía) ---
+De joven, <b>comía</b> mucha comida rápida.	When I was young, I used to eat a lot of fast food.<br><br><i>comer — imperfect, yo. Regular -er/-ir: -ía, -ías, -ía, -íamos, -íais, -ían</i>	phase1 verbs imperfect comer
+Ella <b>vivía</b> en un apartamento pequeño cerca del centro.	She used to live in a small apartment near downtown.<br><br><i>vivir — imperfect, ella. Regular -ir pattern.</i>	phase1 verbs imperfect vivir
+Nosotros <b>teníamos</b> un perro que se llamaba Luna.	We had a dog named Luna.<br><br><i>tener — imperfect, nosotros. Regular pattern despite being irregular in other tenses.</i>	phase1 verbs imperfect tener
+Él <b>hacía</b> ejercicio todas las mañanas antes de trabajar.	He used to exercise every morning before work.<br><br><i>hacer — imperfect, él. Regular -ía pattern.</i>	phase1 verbs imperfect hacer
+Yo no <b>podía</b> dormir cuando hacía mucho calor.	I couldn't sleep when it was really hot.<br><br><i>poder — imperfect, yo. Ongoing past state.</i>	phase1 verbs imperfect poder
+Ella <b>decía</b> que quería mudarse a otro país.	She used to say she wanted to move to another country.<br><br><i>decir — imperfect, ella. Regular -ía pattern. Note: mudarse = to move (residence).</i>	phase1 verbs imperfect decir
+Mis padres <b>salían</b> a cenar los viernes.	My parents used to go out to dinner on Fridays.<br><br><i>salir — imperfect, ellos. Regular -ía pattern.</i>	phase1 verbs imperfect salir
+# --- Thematic vocabulary: household & daily life ---
+Necesito <b>barrer</b> el piso antes de que lleguen los invitados.	I need to sweep the floor before the guests arrive.<br><br><i>barrer — to sweep. Common household verb.</i>	phase1 vocab household
+¿Puedes <b>apagar</b> la luz? Ya me voy a dormir.	Can you turn off the light? I'm going to sleep.<br><br><i>apagar — to turn off (lights, appliances). Opposite: encender.</i>	phase1 vocab household
+La <b>lavadora</b> está rota, tenemos que lavar a mano.	The washing machine is broken, we have to wash by hand.<br><br><i>la lavadora — washing machine. Related: lavar = to wash.</i>	phase1 vocab household
+Pon los platos en el <b>fregadero</b>, yo los lavo después.	Put the plates in the sink, I'll wash them later.<br><br><i>el fregadero — kitchen sink. From fregar = to scrub.</i>	phase1 vocab household
+Voy a <b>colgar</b> la ropa afuera porque hace sol.	I'm going to hang the clothes outside because it's sunny.<br><br><i>colgar (o→ue) — to hang (clothes, pictures). Stem-changing.</i>	phase1 vocab household
+# --- Thematic vocabulary: food & cooking ---
+<b>Picar</b> la cebolla siempre me hace llorar.	Chopping the onion always makes me cry.<br><br><i>picar — to chop/dice. Also: to sting, to bite (insect).</i>	phase1 vocab cooking
+Hay que <b>revolver</b> la salsa para que no se queme.	You have to stir the sauce so it doesn't burn.<br><br><i>revolver (o→ue) — to stir. Also: to rummage through.</i>	phase1 vocab cooking
+Pon la olla a <b>hervir</b> con un poco de sal.	Put the pot on to boil with a little salt.<br><br><i>hervir (e→ie) — to boil. Stem-changing.</i>	phase1 vocab cooking
+Me gusta la carne bien <b>asada</b>, no cruda.	I like meat well grilled, not raw.<br><br><i>asado/a — grilled/roasted. From asar = to grill/roast. crudo/a = raw.</i>	phase1 vocab cooking
+# --- High-frequency vocabulary from exam gaps ---
+Siempre <b>madrugo</b> los lunes porque tengo una reunión a las siete.	I always get up early on Mondays because I have a meeting at seven.<br><br><i>madrugar — to get up early / to wake up early. La madrugada = early morning.</i>	phase1 vocab frequency
+<b>Extraño</b> mucho a mis amigos de la universidad.	I miss my university friends a lot.<br><br><i>extrañar — to miss (someone/something). Also: echar de menos (more common in Spain).</i>	phase1 vocab frequency
+Me <b>enteré</b> de la noticia por las redes sociales.	I found out about the news through social media.<br><br><i>enterarse (de) — to find out. Reflexive. Always with "de".</i>	phase1 vocab frequency
+Tenemos que <b>aprovechar</b> el buen tiempo y salir.	We have to make the most of the good weather and go out.<br><br><i>aprovechar — to take advantage of / make the most of. ¡Buen provecho! = Enjoy your meal!</i>	phase1 vocab frequency
+Nos <b>mudamos</b> a esta casa hace tres años.	We moved to this house three years ago.<br><br><i>mudarse — to move (change residence). Reflexive. La mudanza = the move.</i>	phase1 vocab frequency
+Esta maleta no <b>cabe</b> en el maletero del coche.	This suitcase doesn't fit in the car trunk.<br><br><i>caber — to fit (in a space). Irregular present: quepo, cabes, cabe, cabemos... Preterite: cupe.</i>	phase1 vocab frequency
+<b>A pesar de</b> la lluvia, fuimos al parque.	Despite the rain, we went to the park.<br><br><i>a pesar de — despite / in spite of. Synonym: pese a.</i>	phase1 vocab frequency
+<b>De repente</b>, se apagaron todas las luces.	Suddenly, all the lights went out.<br><br><i>de repente — suddenly. Very common in narration.</i>	phase1 vocab frequency
+No es una persona <b>confiable</b>, siempre cambia de opinión.	He's not a reliable person, he always changes his mind.<br><br><i>confiable — reliable / trustworthy. From confiar = to trust. Also: fiable (Spain).</i>	phase1 vocab frequency
+Pidió un <b>préstamo</b> al banco para comprar un coche.	He applied for a loan from the bank to buy a car.<br><br><i>el préstamo — loan. From prestar = to lend.</i>	phase1 vocab frequency
+Quiero <b>quejarme</b> del servicio, fue terrible.	I want to complain about the service, it was terrible.<br><br><i>quejarse (de) — to complain (about). Reflexive. La queja = complaint.</i>	phase1 vocab frequency
+El <b>medio ambiente</b> necesita más protección.	The environment needs more protection.<br><br><i>el medio ambiente — the environment (nature). Medioambiental = environmental.</i>	phase1 vocab frequency
+O <b>vienes</b> conmigo o te quedas aquí.	Either you come with me or you stay here.<br><br><i>o...o — either...or. The doubled "o" adds emphasis. No separate word for "either."</i>	phase1 vocab frequency

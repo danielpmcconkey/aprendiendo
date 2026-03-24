@@ -20,5 +20,7 @@ Daily assignments created by Hobson and completed by Dan.
 
 - Do the assignment the day it's assigned
 - Commit your completed work to the repo
-- Don't use translators or references unless the assignment says you can
+- **Grammar drills:** Open book. Check Anki cards or reference material as needed. The point is producing correct forms, not testing memory.
+- **Writing assignments:** Closed book. No translators, no references. Use what's in your head.
+- **Exams:** Always closed book unless stated otherwise.
 - If you're stuck, attempt it anyway — wrong answers are more useful than blank ones

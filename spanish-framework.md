@@ -225,6 +225,7 @@ Spanish
 | Date | Phase | Anki Cards | Retention | Notes |
 |------|-------|------------|-----------|-------|
 | 2026-03-23 | 1 (wk 1) | 41 | — | Day 1. Irregulars and preterites rusty, as expected. |
+| 2026-03-24 | 1 (wk 1) | 41 | — | Baseline exam: 57.5/100. Ser/estar perfect, reading comp strong. Verb production (imperfect, subjunctive, future) and vocabulary are the major gaps. Actual level: high A2/low B1 production, B1 comprehension. |
 
 ---
 
