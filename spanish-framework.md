@@ -1,8 +1,8 @@
 # Spanish B2 Framework — Daniel McConkey
 
-**Start date:** ___
+**Start date:** 2026-03-23
 **Goal:** Comfortable B2 → pivot to French
-**Method:** LLM-generated content → Anki → real-world content loop
+**Method:** Teacher-guided — Hobson assigns, evaluates, and adjusts
 **Daily budget:** 30 min Anki + 30 min study + 1 hr input = 2 hrs/day
 
 ---
@@ -21,6 +21,45 @@ Every week follows the same engine, regardless of phase:
 ```
 
 The content changes. The loop doesn't.
+
+---
+
+## Hobson's Role
+
+Hobson is the teacher, not a conversation partner. The arrangement:
+
+1. **Daily assignments.** Every evening study session has a specific assignment in `homework/`, created in advance. Grammar drills, writing prompts, translation exercises, comprehension passages. Not suggestions — assignments.
+2. **Grading.** Dan completes assignments in the file and commits. Hobson reviews, marks errors, and provides corrections next session.
+3. **Exams.** Formal assessments in `exams/` every 2–4 weeks, plus a baseline diagnostic. Graded. Scores tracked in the progress log.
+4. **Anki curation.** Hobson generates batches based on what the assignments and exams reveal. Cards target weaknesses, not just the syllabus.
+5. **Input curation.** Hobson maintains a comprehensible input pipeline: podcast recommendations, Spanish YouTube via Marcus, and reading material matched to current level.
+6. **Accountability.** If an assignment is skipped, Hobson will note it. Once, politely. Twice, less politely. A pattern will be addressed directly.
+
+---
+
+## Comprehensible Input
+
+The 1-hour daily input block should never be "I guess I'll find something." Sources are curated and rotated.
+
+### Podcasts
+| Podcast | Level | Notes |
+|---------|-------|-------|
+| Español con Juan | B1–B2 | Already familiar. Excellent for reactivation. |
+| Hoy Hablamos | B1–B2 | Daily episodes, 10 min each. Current events and everyday topics. |
+| Notes in Spanish (Intermediate/Advanced) | B1–B2 | Ben and Marina. Conversational, natural pace. |
+| Radio Ambulante | B2–C1 | Stretch goal. Real Latin American stories. NPR-style. Save for Phase 2. |
+| No Hay Tos | B1–B2 | Mexican Spanish focus. Slang and idioms explained. |
+
+### YouTube (via Marcus)
+Spanish-language channels to be added to Marcus's subscription list and tiered for daily playlist inclusion. This gives structured video input without browsing. Integration TBD — requires work in the Marcus repo.
+
+### TV / Film
+- Spanish audio + Spanish subtitles. Never English subtitles.
+- Pick something you'd actually watch. Engagement beats "educational."
+
+### Reading
+- Phase 1: Harry Potter y la piedra filosofal (re-read, low pressure)
+- Phase 2: Graduate to news articles, then a real book
 
 ---
 
@@ -132,24 +171,29 @@ Thematic vocabulary blocks (order flexible, based on your interests):
 
 | Day | Morning (30 min) | Evening (30 min) | Input (1 hr) |
 |-----|------------------|-------------------|---------------|
-| Mon | Anki reviews + new cards | Grammar study with Claude | Show or YouTube |
-| Tue | Anki reviews + new cards | Vocab generation session with Claude → prep Anki imports | Audiobook |
-| Wed | Anki reviews + new cards | Grammar exercises / drills | Show or YouTube |
-| Thu | Anki reviews + new cards | Read (Harry Potter / graded reader / eventually real books) | Audiobook |
-| Fri | Anki reviews + new cards | Vocab generation + Anki import | Show or YouTube |
-| Sat | Anki reviews + new cards | Free choice: rewatch something, explore a topic, or rest | Longer input session if you want |
-| Sun | Anki reviews only (catch up) | Weekly check-in with Claude: what worked, what didn't, adjust | Rest or casual input |
+| Mon | Anki reviews + new cards | Homework: grammar drill | Podcast or YouTube (Marcus playlist) |
+| Tue | Anki reviews + new cards | Homework: writing assignment | Show (Spanish audio + Spanish subs) |
+| Wed | Anki reviews + new cards | Homework: grammar drill | Podcast or YouTube (Marcus playlist) |
+| Thu | Anki reviews + new cards | Homework: reading comprehension | Audiobook (Harry Potter) |
+| Fri | Anki reviews + new cards | Homework: writing assignment | Show or YouTube |
+| Sat | Anki reviews + new cards | Catch-up on any missed homework, or bonus assignment | Longer input session |
+| Sun | Anki reviews only (catch up) | Check-in with Hobson: stats, review, adjust | Rest or casual input |
+
+**Evening study = do the assigned homework.** The file is in `homework/`, named by date. Open it, do it, commit it. If there's no assignment, ask Hobson — that's a bug, not a night off.
 
 ---
 
 ## Rules of Engagement
 
-1. **Report Anki stats on Sundays.** Screenshot or just tell me: cards reviewed, retention rate, new cards added. If you skip this, I'll ask.
-2. **If you miss a day, just say so.** No judgment. We adjust. But if you miss a week, I'm going to push.
-3. **Don't Anki words you'll never use.** If it's not in the top 5K frequency list and it's not relevant to your life/interests, let it go.
-4. **Spanish subtitles, not English.** English subtitles teach you nothing. Spanish subtitles reinforce reading + listening simultaneously.
-5. **When you don't understand something, ask me.** Don't just skip it. That's where the learning is.
-6. **Every 4 weeks, we reassess.** Phases are guidelines, not prison sentences. We move when you're ready, not when the calendar says so.
+1. **Report Anki stats on Sundays.** Cards reviewed, retention rate, new cards added. If you skip this, I'll ask.
+2. **Do the homework.** It's in `homework/`, it has your name on it, and it won't do itself. If you miss one, say so — I'll note it and we move on. If you miss three in a row, we're having a conversation.
+3. **Commit your work.** Completed homework gets committed to the repo. This is how I track your progress across sessions.
+4. **Don't Anki words you'll never use.** If it's not in the top 5K frequency list and it's not relevant to your life/interests, let it go.
+5. **Spanish subtitles, not English.** English subtitles teach you nothing.
+6. **When you don't understand something, ask me.** Don't just skip it. That's where the learning is.
+7. **Grade on the target word, not the whole sentence.** The bolded word is what the card tests. If you nail the verb but stumble on something else in the sentence, that's intel — look it up, maybe make a new card for it — but don't fail the card you got right.
+8. **Every 4 weeks, we reassess.** Phases are guidelines, not prison sentences. We move when you're ready, not when the calendar says so.
+9. **Exams are not optional.** When one is assigned, do it before the next check-in. No peeking at references.
 
 ---
 
@@ -180,7 +224,7 @@ Spanish
 
 | Date | Phase | Anki Cards | Retention | Notes |
 |------|-------|------------|-----------|-------|
-|      |       |            |           |       |
+| 2026-03-23 | 1 (wk 1) | 41 | — | Day 1. Irregulars and preterites rusty, as expected. |
 
 ---
 
