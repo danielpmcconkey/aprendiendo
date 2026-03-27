@@ -1,0 +1,40 @@
+# Anki import file — Tab-separated, 3 fields: Front, Back, Tags
+# Import settings: Field 1 = Front, Field 2 = Back, Field 3 = Tags
+# Card type: Basic
+# Deck: Spanish::Phase1-Reactivation
+# --- PRIORITY: -er/-ir imperfect = -ía (NOT -iba) ---
+# The systematic error: applying -ar endings (-aba) to -er/-ir verbs.
+# These cards hammer the -ía pattern with high-frequency verbs.
+Yo no ______ (conocer, imperfect) a nadie en esa ciudad.	Yo no <b>conocía</b> a nadie en esa ciudad.<br><i>I didn't know anyone in that city.</i><br><br><i>conocer — imperfect, yo. -er/-ir pattern: -ía, -ías, -ía, -íamos, -íais, -ían. NOT -iba.</i>	phase1 verbs imperfect -ía drill
+Ella ______ (aprender, imperfect) algo nuevo cada día.	Ella <b>aprendía</b> algo nuevo cada día.<br><i>She used to learn something new every day.</i><br><br><i>aprender — imperfect, ella. -er verb → -ía. NOT aprendiba.</i>	phase1 verbs imperfect -ía drill
+De joven, yo ______ (escribir, imperfect) cartas a mis primos.	De joven, yo <b>escribía</b> cartas a mis primos.<br><i>As a young man, I used to write letters to my cousins.</i><br><br><i>escribir — imperfect, yo. -ir verb → -ía.</i>	phase1 verbs imperfect -ía drill
+Nosotros ______ (correr, imperfect) en el parque todas las tardes.	Nosotros <b>corríamos</b> en el parque todas las tardes.<br><i>We used to run in the park every afternoon.</i><br><br><i>correr — imperfect, nosotros. -er verb → -íamos. Note accent.</i>	phase1 verbs imperfect -ía drill
+Mis hermanos ______ (leer, imperfect) cómics antes de dormir.	Mis hermanos <b>leían</b> cómics antes de dormir.<br><i>My brothers used to read comics before bed.</i><br><br><i>leer — imperfect, ellos. -er verb → -ían.</i>	phase1 verbs imperfect -ía drill
+Tú siempre ______ (recibir, imperfect) buenas notas en la escuela.	Tú siempre <b>recibías</b> buenas notas en la escuela.<br><i>You always used to get good grades in school.</i><br><br><i>recibir — imperfect, tú. -ir verb → -ías.</i>	phase1 verbs imperfect -ía drill
+Imperfect endings:<br>-ar verbs → ______<br>-er/-ir verbs → ______	-ar verbs → <b>-aba, -abas, -aba, -ábamos, -abais, -aban</b><br>-er/-ir verbs → <b>-ía, -ías, -ía, -íamos, -íais, -ían</b><br><br><i>Only 3 irregulars in the entire imperfect: ser, ir, ver. Everything else follows these two patterns.</i>	phase1 verbs imperfect rule
+# --- mucho vs muy ---
+Estoy ______ (mucho/muy) cansado hoy.	Estoy <b>muy</b> cansado hoy.<br><i>I'm very tired today.</i><br><br><i>muy + adjective/adverb. mucho + noun or after a verb.</i>	phase1 grammar mucho-muy
+Tengo ______ (mucho/muy) hambre.	Tengo <b>mucha</b> hambre.<br><i>I'm very hungry.</i><br><br><i>mucho/a + noun (agrees in gender). Hambre is feminine despite "el hambre."</i>	phase1 grammar mucho-muy
+Ella habla español ______ (mucho/muy) bien.	Ella habla español <b>muy</b> bien.<br><i>She speaks Spanish very well.</i><br><br><i>muy + adverb (bien). mucho would go after the verb alone: "habla mucho."</i>	phase1 grammar mucho-muy
+Era ______ (mucho/muy) feliz cuando vivía en San Diego.	Era <b>muy</b> feliz cuando vivía en San Diego.<br><i>I was very happy when I lived in San Diego.</i><br><br><i>muy + adjective (feliz). NOT mucho feliz.</i>	phase1 grammar mucho-muy
+# --- Verb + preposition + infinitive (gaps from homework) ---
+Ella ______ de llegar cuando empezó a llover.	Ella <b>acababa de</b> llegar cuando empezó a llover.<br><i>She had just arrived when it started to rain.</i><br><br><i>acabar <b>de</b> + inf = to have just done something. Never drop the "de."</i>	phase1 grammar verb-preposition
+______ niño, soñaba con vivir en otro país.	<b>De</b> niño, soñaba con vivir en otro país.<br><i>As a child, I dreamed of living in another country.</i><br><br><i>"De niño/a" = as a child. NOT "como niño" (= like a child / in the manner of a child).</i>	phase1 grammar set-phrases
+Tengo un poco ______ miedo.	Tengo un poco <b>de</b> miedo.<br><i>I'm a little scared.</i><br><br><i>un poco <b>de</b> + noun. Always. "Un poco" alone is an adverb: "duermo un poco."</i>	phase1 grammar set-phrases
+Mi casa está cerca ______ la playa.	Mi casa está cerca <b>de</b> la playa.<br><i>My house is near the beach.</i><br><br><i>cerca <b>de</b> = near. Never "cerca a." Lejos <b>de</b> = far from. Same pattern.</i>	phase1 grammar set-phrases
+# --- hacer preterite stem (hic-) ---
+Nosotros ______ (hacer, preterite) senderismo en el desierto.	Nosotros <b>hicimos</b> senderismo en el desierto.<br><i>We went hiking in the desert.</i><br><br><i>hacer — preterite: hice, hiciste, hizo, <b>hicimos</b>, hicisteis, hicieron. Stem changes to hic- (hiz- before -o).</i>	phase1 verbs preterite hacer
+¿Qué ______ (hacer, preterite, tú) ayer después del trabajo?	¿Qué <b>hiciste</b> ayer después del trabajo?<br><i>What did you do yesterday after work?</i><br><br><i>hacer — preterite, tú. hiciste. The whole paradigm: hice, hiciste, hizo, hicimos, hicisteis, hicieron.</i>	phase1 verbs preterite hacer
+# --- mudarse (not movar) ---
+Mi familia ______ (to move/relocate, preterite) de Japón a San Diego.	Mi familia <b>se mudó</b> de Japón a San Diego.<br><i>My family moved from Japan to San Diego.</i><br><br><i>mudarse = to move (change residence). Reflexive. NOT movar (doesn't exist). La mudanza = the move.</i>	phase1 vocab frequency
+Nos ______ (mudarse, preterite) tres veces cuando yo era niño.	Nos <b>mudamos</b> tres veces cuando yo era niño.<br><i>We moved three times when I was a kid.</i><br><br><i>mudarse — preterite, nosotros. Reflexive: me mudé, te mudaste, se mudó, nos mudamos...</i>	phase1 vocab frequency
+# --- medio/a agreement ---
+Esperamos una hora y ______ (half).	Esperamos una hora y <b>media</b>.<br><i>We waited an hour and a half.</i><br><br><i>medio/a agrees with the noun: una hora y media (f), un año y medio (m), dos kilos y medio (m).</i>	phase1 grammar agreement
+Tenía un año y ______ (half) cuando llegamos a San Diego.	Tenía un año y <b>medio</b>.<br><i>I was a year and a half old when we got to San Diego.</i><br><br><i>año is masculine → medio. hora is feminine → media.</i>	phase1 grammar agreement
+# --- ser/estar with emotions and states (production reinforcement) ---
+Estoy muy ______ (excited) por el viaje.	Estoy muy <b>emocionado</b> por el viaje.<br><i>I'm very excited about the trip.</i><br><br><i>Emotions and states = <b>estar</b>. Estoy emocionado, NOT soy emocionado. Ser for identity, estar for how you feel.</i>	phase1 grammar ser-estar
+Los niños no ______ (estar) solos en casa.	Los niños no <b>están</b> solos en casa.<br><i>The kids aren't alone at home.</i><br><br><i>Alone = state/condition = <b>estar</b>. Also note: solos (plural, agrees with niños).</i>	phase1 grammar ser-estar
+# --- Spelling demons from homework ---
+______ (when) era niño, jugaba en la calle.	<b>Cuando</b> era niño, jugaba en la calle.<br><i>When I was a kid, I played in the street.</i><br><br><i>cuando — NOT quando. There is no Q in this word.</i>	phase1 spelling
+Cada ______ (summer) íbamos a la playa.	Cada <b>verano</b> íbamos a la playa.<br><i>Every summer we used to go to the beach.</i><br><br><i>verano — NOT verado. From the Latin veranum (spring season).</i>	phase1 spelling
+Él habla demasiado ______ (fast).	Él habla demasiado <b>rápido</b>.<br><i>He speaks too fast.</i><br><br><i>rápido — accent on the first syllable (esdrújula). Also works as adverb: rápidamente.</i>	phase1 spelling

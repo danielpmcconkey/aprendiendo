@@ -80,7 +80,6 @@ Spanish-language channels to be added to Marcus's subscription list and tiered f
 - Evening study: Work through present, preterite, imperfect of the 30 most common verbs (regular + irregular)
 - Anki: Conjugation cards (sentence context, not naked conjugation tables)
 - Input: Resume Spanish YouTube channels you already like. Low pressure. Just get your ear back.
-- Grammar ref: Routledge Ch. 13 (verbs) as needed — look things up, don't read cover to cover
 
 **Weeks 3–4: Expanding tenses + everyday vocabulary**
 - Evening study: Conditional and future tense. Common imperative forms (tú commands).
@@ -92,7 +91,6 @@ Spanish-language channels to be added to Marcus's subscription list and tiered f
 - Evening study: Present subjunctive — when and why it's used (WEIRDO framework or similar). Claude will break this down for you in a way that connects to your pattern-seeking brain.
 - Anki: Subjunctive trigger phrases + example sentences
 - Input: Continue show. Start Harry Potter audiobook again from the beginning (re-listen, don't stress about understanding every word).
-- Grammar ref: Routledge Ch. 16 (subjunctive) as reference
 
 **Weeks 7–8: Assessment + gap filling**
 - Evening study: Claude-generated diagnostic exercises covering everything from weeks 1–6
@@ -183,6 +181,28 @@ Thematic vocabulary blocks (order flexible, based on your interests):
 
 ---
 
+## Grammar Reference
+
+**Book:** *A New Reference Grammar of Modern Spanish*, 6th edition (Butt & Benjamin, Routledge)
+
+This is a reference grammar, not a textbook. It explains the *why* behind Spanish grammar — the logic, the exceptions, the reasoning. Dan learns permanently when he understands the mechanism, not just the rule.
+
+**How it's used:** Each homework assignment includes a lookup task — a specific construction, contrast, or rule to find in the Routledge and read before doing the drills. Examples:
+
+- "Look up: imperfect vs preterite aspect"
+- "Look up: subjunctive after *esperar que*"
+- "Look up: *acabar de* + infinitive"
+
+No chapter numbers. No page references. The lookup itself is a skill. Find the section, read it (10–15 minutes), then do the drills with the reasoning loaded.
+
+**Homework structure (revised):**
+
+1. **Read** (10–15 min) — Routledge lookup on the night's topic
+2. **Drill** (10–15 min) — exercises that test what you just read
+3. **Write** (10 min, closed book) — production under pressure
+
+---
+
 ## Rules of Engagement
 
 1. **Report Anki stats on Sundays.** Cards reviewed, retention rate, new cards added. If you skip this, I'll ask.
@@ -225,7 +245,10 @@ Spanish
 | Date | Phase | Anki Cards | Retention | Notes |
 |------|-------|------------|-----------|-------|
 | 2026-03-23 | 1 (wk 1) | 41 | — | Day 1. Irregulars and preterites rusty, as expected. |
-| 2026-03-24 | 1 (wk 1) | 41 | — | Baseline exam: 57.5/100. Ser/estar perfect, reading comp strong. Verb production (imperfect, subjunctive, future) and vocabulary are the major gaps. Actual level: high A2/low B1 production, B1 comprehension. |
+| 2026-03-24 | 1 (wk 1) | 83 | — | Baseline exam: 57.5/100. Homework 1: 23.5/30 (78%). Batch 02 imported. |
+| 2026-03-25 | 1 (wk 1) | 83 | — | Homework 2: 25.5/30 (85%). Conjugation drills 100%. Challenged grading on 3 counts — all valid. |
+| 2026-03-26 | 1 (wk 1) | 83 | — | Homework 3: 25/30 (83%). Que/lo que perfect. Systematic -iba/-ía error found in writing. |
+| 2026-03-27 | 1 (wk 1) | 109 | — | Batch 03 imported (26 cards). Routledge reading component added to homework structure. |
 
 ---
 
