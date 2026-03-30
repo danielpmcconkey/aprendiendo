@@ -1,0 +1,37 @@
+# Anki import file — Tab-separated, 3 fields: Front, Back, Tags
+# Import settings: Field 1 = Front, Field 2 = Back, Field 3 = Tags
+# Card type: Basic
+# Deck: Spanish::Phase1-Reactivation
+# --- PRIORITY: aprender a (NOT aprender de) ---
+# Stored wrong pattern: "aprender de" = learn from a source. "aprender a" = learn to do something.
+# Appeared in both drill AND writing on 3/27 — this is not a pressure slip.
+Cuando era niño, aprendí ______ nadar en el lago.	Cuando era niño, aprendí <b>a</b> nadar en el lago.<br><i>When I was a kid, I learned to swim in the lake.</i><br><br><i>aprender <b>a</b> + infinitive = to learn to do something. NOT aprender de. "Aprender de" = to learn from (a person/source).</i>	phase1 grammar verb-preposition aprender
+Mi madre me enseñó y aprendí ______ cocinar a los diez años.	Mi madre me enseñó y aprendí <b>a</b> cocinar a los diez años.<br><i>My mother taught me and I learned to cook at ten.</i><br><br><i>aprender <b>a</b> + inf. "Aprender de mi madre" (learn FROM her) vs "aprender a cocinar" (learn TO cook).</i>	phase1 grammar verb-preposition aprender
+Aprendió mucho ______ su abuelo.	Aprendió mucho <b>de</b> su abuelo.<br><i>He learned a lot from his grandfather.</i><br><br><i>aprender <b>de</b> + person/source = to learn from. Compare: aprender <b>a</b> + infinitive = to learn to do.</i>	phase1 grammar verb-preposition aprender
+Quiero aprender ______ tocar la guitarra.	Quiero aprender <b>a</b> tocar la guitarra.<br><i>I want to learn to play the guitar.</i><br><br><i>aprender <b>a</b> + infinitive. Always. No exceptions.</i>	phase1 grammar verb-preposition aprender
+# --- por vs para (production) ---
+# Baseline 70%, confirmed shaky in writing. "por la cena" (purpose) should have been "para la cena."
+Compré flores ______ mi madre.	Compré flores <b>para</b> mi madre.<br><i>I bought flowers for my mother.</i><br><br><i><b>para</b> = recipient / destination. "For whom?" = para.</i>	phase1 grammar por-para
+Estudié mucho ______ el examen.	Estudié mucho <b>para</b> el examen.<br><i>I studied a lot for the exam.</i><br><br><i><b>para</b> = purpose / goal. Studying with the goal of passing. NOT por.</i>	phase1 grammar por-para
+Preparé la mesa ______ la cena.	Preparé la mesa <b>para</b> la cena.<br><i>I set the table for dinner.</i><br><br><i><b>para</b> = purpose. The table is FOR the dinner (its goal/destination). NOT por.</i>	phase1 grammar por-para
+Gracias ______ tu ayuda.	Gracias <b>por</b> tu ayuda.<br><i>Thanks for your help.</i><br><br><i><b>por</b> = cause / reason. Thanking BECAUSE OF your help. Gratitude = por.</i>	phase1 grammar por-para
+Caminamos ______ el parque durante una hora.	Caminamos <b>por</b> el parque durante una hora.<br><i>We walked through the park for an hour.</i><br><br><i><b>por</b> = movement through/along. Para = destination (toward).</i>	phase1 grammar por-para
+Lo hice ______ ti.	Lo hice <b>por</b> ti.<br><i>I did it because of you / for your sake.</i><br><br><i><b>por</b> = on behalf of / because of. "Lo hice para ti" = I made it for you (recipient). Different meaning.</i>	phase1 grammar por-para
+Purpose vs cause:<br>"Trabajo ______ vivir" (in order to live)<br>"Trabajo ______ necesidad" (because of necessity)	"Trabajo <b>para</b> vivir" (in order to live — purpose/goal)<br>"Trabajo <b>por</b> necesidad" (because of necessity — cause/reason)<br><br><i>The core distinction: <b>para</b> = where it's going (purpose, destination, recipient, deadline). <b>por</b> = where it came from (cause, reason, exchange, movement through).</i>	phase1 grammar por-para rule
+# --- ser vs haber for existence ("there were") ---
+# "era doce invitados" → "había doce invitados." Ser ≠ haber for "there were."
+______ (there were) muchas personas en la fiesta.	<b>Había</b> muchas personas en la fiesta.<br><i>There were many people at the party.</i><br><br><i>haber (impersonal) = there is/are/was/were. hay (present), había (imperfect), hubo (preterite). NEVER use ser for "there were."</i>	phase1 grammar haber-existential
+______ (there were) doce invitados en la cena.	<b>Había</b> doce invitados en la cena.<br><i>There were twelve guests at dinner.</i><br><br><i>había — always singular, even with plural nouns. "Había doce," NOT "habían doce" (common error, even among native speakers).</i>	phase1 grammar haber-existential
+# --- Gender: res is feminine ---
+Comimos ______ (roast beef) en la cena.	Comimos <b>res asada</b> en la cena.<br><i>We ate roast beef at dinner.</i><br><br><i>res is <b>feminine</b> → asada, NOT asado. La res = the beef/cattle.</i>	phase1 grammar agreement gender
+# --- riquísimo spelling (c → qu before i) ---
+La comida estaba ______ (extremely delicious).	La comida estaba <b>riquísima</b>.<br><i>The food was absolutely delicious.</i><br><br><i>rico → riqu<b>ísimo/a</b>. The c changes to qu before -ísimo (to keep the /k/ sound). Also: comida is feminine → riquísima. And NEVER "muy riquísimo" — pick one or the other.</i>	phase1 grammar superlative spelling
+# --- todos + possessive (no "de") ---
+______ (all my) amigos vinieron a la fiesta.	<b>Todos mis</b> amigos vinieron a la fiesta.<br><i>All my friends came to the party.</i><br><br><i>todos/as + possessive + noun. NO "de" between them. "Todos mis amigos," NOT "todos de mis amigos."</i>	phase1 grammar todos-possessive
+Cocinó ______ (all his) platos favoritos.	Cocinó <b>todos sus</b> platos favoritos.<br><i>He cooked all his favorite dishes.</i><br><br><i>todos + possessive. No "de." Same pattern: todas mis cosas, todos nuestros vecinos.</i>	phase1 grammar todos-possessive
+# --- más needs accent ---
+Quiero ______ (more) tiempo.	Quiero <b>más</b> tiempo.<br><i>I want more time.</i><br><br><i>más (more/most) ALWAYS has an accent. "mas" (no accent) = "but" (literary, rare). If you mean "more," write más.</i>	phase1 spelling accent
+# --- mes, not mez ---
+El ______ (month) pasado fuimos a la playa.	El <b>mes</b> pasado fuimos a la playa.<br><i>Last month we went to the beach.</i><br><br><i>mes — NOT mez. Plural: meses. No Z anywhere.</i>	phase1 spelling
+# --- hacía accent (imperfect of hacer) ---
+Mi abuela ______ (hacer, imperfect) la mejor sopa del mundo.	Mi abuela <b>hacía</b> la mejor sopa del mundo.<br><i>My grandmother used to make the best soup in the world.</i><br><br><i>hacía — accent on the í. "hacia" (no accent) = "toward." The accent changes the word entirely.</i>	phase1 spelling accent imperfect

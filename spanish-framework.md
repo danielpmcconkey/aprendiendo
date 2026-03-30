@@ -250,6 +250,8 @@ Spanish
 | 2026-03-26 | 1 (wk 1) | 83 | — | Homework 3: 25/30 (83%). Que/lo que perfect. Systematic -iba/-ía error found in writing. |
 | 2026-03-27 | 1 (wk 1) | 109 | — | Batch 03 imported (26 cards). Routledge reading component added to homework structure. |
 | 2026-03-27 | 1 (wk 1) | 109 | — | Homework 4: 24.5/30 (82%). Conjugation 100%, writing 63%. aprender a/de confirmed pattern. |
+| 2026-03-30 | 1 (wk 2) | 129 | 98.1% | Week 1 Anki stats: 400 reviews, 57/day avg, all young, median ease 250%. Batch 04 (20 cards). |
+| 2026-03-30 | 1 (wk 2) | 129 | 98.1% | Homework 5: 28/30 (93%). Por/para drill only (no writing). 22/22 por/para choices correct. Errors: imp/pret, spelling, gender. |
 
 ---
 
