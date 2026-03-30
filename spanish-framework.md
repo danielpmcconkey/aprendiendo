@@ -249,6 +249,7 @@ Spanish
 | 2026-03-25 | 1 (wk 1) | 83 | — | Homework 2: 25.5/30 (85%). Conjugation drills 100%. Challenged grading on 3 counts — all valid. |
 | 2026-03-26 | 1 (wk 1) | 83 | — | Homework 3: 25/30 (83%). Que/lo que perfect. Systematic -iba/-ía error found in writing. |
 | 2026-03-27 | 1 (wk 1) | 109 | — | Batch 03 imported (26 cards). Routledge reading component added to homework structure. |
+| 2026-03-27 | 1 (wk 1) | 109 | — | Homework 4: 24.5/30 (82%). Conjugation 100%, writing 63%. aprender a/de confirmed pattern. |
 
 ---
 
